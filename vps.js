@@ -45,7 +45,7 @@ Expire : 6 - 7 Hours
 Github : github.com/FrenzY8
     `)
   } else {
-  if(PilihanDia == "2") {
+  if(PilihDulu == "2") {
   console.clear();
 console.log(`
 VPS Succes Generated!
