@@ -25,7 +25,6 @@ console.log(`
 Choose by Number | Pilih dengan angka
 [1] Vps Trial
 [2] Permanent Vps
-[3] Generate Random Vps
 
 NOTES : This scripts only for fun! the vps is not real active..
 but if you want to make this for Api, yes you can!
