@@ -1,0 +1,22 @@
+{
+  "name": "ranVps",
+  "version": "1.0.0",
+  "description": "logins",
+  "main": "vps.js",
+  "scripts": {
+    "test": "node vps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "yes",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.6.1",
+    "random-username-generator": "^1.0.4"
+  }
+}
