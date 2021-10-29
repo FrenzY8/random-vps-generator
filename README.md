@@ -1,6 +1,9 @@
 # why you make this?
 idk ajg gabut daripada repository sepi anjing
 
+# instalation
+- npm install
+
 # recomended
 this file(source) recomended for bot command
 
