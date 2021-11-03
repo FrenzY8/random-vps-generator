@@ -4,6 +4,8 @@ idk ajg gabut daripada repository sepi anjing
 # instalation
 - npm install
 
+# running
+- node vps.js
 # recomended
 this file(source) recomended for bot command
 
